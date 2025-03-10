@@ -1,0 +1,44 @@
+package com.module1;
+
+public class DataTypes 
+{
+	 public static void main(String[] args) {
+
+	        // Integer data type
+	        int integerVariable = 10;
+	        System.out.println("Integer: " + integerVariable);
+
+	        // Floating-point number data type
+	        float floatVariable = 3.14f;
+	        System.out.println("Float: " + floatVariable);
+
+	        // Double data type (larger floating point number)
+	        double doubleVariable = 3.14159265359;
+	        System.out.println("Double: " + doubleVariable);
+
+	        // Character data type
+	        char charVariable = 'A';
+	        System.out.println("Character: " + charVariable);
+
+	        // String data type
+	        String stringVariable = "Hello, Java!";
+	        System.out.println("String: " + stringVariable);
+
+	        // Boolean data type
+	        boolean booleanVariable = true;
+	        System.out.println("Boolean: " + booleanVariable);
+
+	        // Byte data type (8-bit integer)
+	        byte byteVariable = 100;
+	        System.out.println("Byte: " + byteVariable);
+
+	        // Short data type (16-bit integer)
+	        short shortVariable = 32000;
+	        System.out.println("Short: " + shortVariable);
+
+	        // Long data type (64-bit integer)
+	        long longVariable = 10000000000L;
+	        System.out.println("Long: " + longVariable);
+	     
+	    }
+}

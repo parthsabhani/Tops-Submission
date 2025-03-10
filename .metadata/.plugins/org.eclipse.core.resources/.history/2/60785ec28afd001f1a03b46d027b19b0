@@ -1,0 +1,16 @@
+package com.module1;
+
+class Project
+{
+	static long a =10;
+	static String name = "Uber";
+}
+
+
+public class StaticVariablesAndMethods 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

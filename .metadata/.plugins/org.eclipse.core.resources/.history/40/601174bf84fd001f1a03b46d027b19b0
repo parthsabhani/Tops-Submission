@@ -1,0 +1,16 @@
+package com.module1;
+
+class Student
+{
+	public Student() {
+		System.out.println("Default Constructor");
+	}
+}
+
+public class ConstructorOverloading 
+{
+	public ConstructorOverloading(int index, String title) 
+	{
+		
+	}
+}

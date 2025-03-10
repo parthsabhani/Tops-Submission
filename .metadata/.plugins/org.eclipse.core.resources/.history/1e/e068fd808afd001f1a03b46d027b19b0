@@ -1,0 +1,9 @@
+package com.module1;
+
+public class StaticVariablesAndMethods 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

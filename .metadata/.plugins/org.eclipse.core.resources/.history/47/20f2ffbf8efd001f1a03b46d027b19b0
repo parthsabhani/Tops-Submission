@@ -1,0 +1,21 @@
+package com.module1;
+
+class A1
+{
+	public A1()
+	{
+		System.out.println("Parent Class");
+	}
+}
+
+class C1{
+	
+}
+
+class C2{
+	
+}
+
+public class HierarchicalInheritance {
+
+}

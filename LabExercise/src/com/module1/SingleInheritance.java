@@ -1,0 +1,28 @@
+package com.module1;
+
+class Parent
+{
+	public Parent() 
+	{
+		System.out.println("This is Parent Class.");
+	}
+}
+
+class Child extends Parent
+{
+	public Child() 
+	{
+		System.out.println("This is Child Class.");
+	}
+}
+
+public class SingleInheritance 
+{
+	public static void main(String[] args) 
+	{
+		Child c1 = new Child();
+		Parent c2 = new Parent();
+//		Child c3 = new Parent();  Error 
+		Parent c4 = new Child();
+	}
+}

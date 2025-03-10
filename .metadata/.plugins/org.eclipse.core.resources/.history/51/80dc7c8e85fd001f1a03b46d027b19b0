@@ -1,0 +1,9 @@
+package com.module1;
+
+public class Encapsulation 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

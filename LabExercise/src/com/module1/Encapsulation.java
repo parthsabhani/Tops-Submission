@@ -1,0 +1,30 @@
+package com.module1;
+
+class Employee
+{
+	private int id;
+	private String name;
+	
+	public void setEmployee(int id, String name)
+	{
+		this.id =id;
+		this.name = name;
+	}
+	
+	public void getEmployee()
+	{
+		System.out.println("Employee id: " + id);
+		System.out.println("Employee name: " + name);
+	}
+}
+
+public class Encapsulation 
+{
+	public static void main(String[] args) 
+	{
+		Employee e = new Employee();
+		e.setEmployee(1, "Parth");
+		e.setEmployee(2, "Rahul");
+		e.getEmployee();
+	}
+}

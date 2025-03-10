@@ -1,0 +1,17 @@
+package com.module1;
+
+class FirstClass
+{
+	public void method1()
+	{
+		System.out.println("Method 1");
+	}
+}
+
+public class OverridingProgram 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

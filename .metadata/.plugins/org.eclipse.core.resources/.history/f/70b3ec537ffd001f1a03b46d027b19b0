@@ -1,0 +1,15 @@
+package com.module1;
+
+public class MenuDrive 
+{
+	public static void main(String[] args) 
+	{
+		  System.out.println("Simple Menu");
+          System.out.println("1. About us");
+          System.out.println("2. Projects");
+          System.out.println("3. Employees");
+          System.out.println("4. Contact us");
+          System.out.println("5. Exit");
+          System.out.print("Enter your choice (1-5): ");
+	}
+}

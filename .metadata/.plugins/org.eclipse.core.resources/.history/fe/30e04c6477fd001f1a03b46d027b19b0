@@ -1,0 +1,11 @@
+package com.module1;
+
+public class HelloWorld 
+{
+	public static void main(String[] args) 
+	{
+		boolean b;
+		System.out.println(b);
+		System.out.println("Hello World new to programming.");
+	}
+}

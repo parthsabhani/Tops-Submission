@@ -1,0 +1,15 @@
+package com.module1;
+
+class Project
+{
+	
+}
+
+
+public class StaticVariablesAndMethods 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

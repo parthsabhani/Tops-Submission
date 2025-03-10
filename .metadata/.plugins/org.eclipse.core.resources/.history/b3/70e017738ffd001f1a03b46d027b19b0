@@ -1,0 +1,30 @@
+package com.module1;
+
+class A2
+{
+	public A2()
+	{
+		System.out.println("First Class");
+	}
+}
+
+class Child
+{
+	public Child()
+	{
+		System.out.println("Second Class");
+	}
+}
+
+class GrandChild
+{
+	public GrandChild()
+	{
+		System.out.println("Third Class");
+	}
+}
+
+public class MultilevelInheritance 
+{
+	
+}

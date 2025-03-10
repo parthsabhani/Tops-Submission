@@ -1,0 +1,23 @@
+package com.module1;
+
+class Project
+{
+	static long pid =10;
+	static String name = "Uber";
+	
+	public static void getPoject() 
+	{
+		System.out.println("Name of Project: " + name);
+		System.out.println("Project id: " + pid);
+	}
+	
+}
+
+
+public class StaticVariablesAndMethods 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}
