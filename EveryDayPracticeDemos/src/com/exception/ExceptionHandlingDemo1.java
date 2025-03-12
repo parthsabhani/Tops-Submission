@@ -15,6 +15,7 @@ public class ExceptionHandlingDemo1
 			int b =sc.nextInt();
 			int c = a/b;
 			System.out.println("Answer is " + c);
+			sc.close();
 		
 		}
 		catch (Exception e)
@@ -26,5 +27,6 @@ public class ExceptionHandlingDemo1
 		{
 			System.out.println("Developer: @Tops");
 		}
+		
 	}
 }
